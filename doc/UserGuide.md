@@ -24,6 +24,7 @@ Please refer to the [Setting up](DeveloperGuide.md#setting-up) section to learn 
 
 #### Changes from level 2
 * Address is split into block, street, unit, and postal code
+* Informs the user when storage file is read-only instead of crashing
 
 #### Changes from level 1
 What's different from AddressBook-Level1:
